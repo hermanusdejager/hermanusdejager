@@ -1,6 +1,6 @@
 # Hermanus de Jager
 
-Independent technical leader working in product, cloud, and infrastructure. Available for fractional leadership roles and project-based engagements.
+Independent technical leader working in product, cloud, and infrastructure. AI-augmented, hands-on delivery. Available for fractional leadership roles and project-based engagements.
 
 20+ years of experience spanning data centre operations, enterprise networking, and cloud architecture, including several years owning full P&L for a product generating R3M+ annually. Comfortable operating at the strategy level and at the command line.
 
@@ -8,6 +8,7 @@ Independent technical leader working in product, cloud, and infrastructure. Avai
 
 - **Fractional and interim leadership** — stepping in as Head of Product or Head of Infrastructure for a defined period
 - **Project-based engagements** — cloud cost audits, cloud migrations, infrastructure modernization, technical project management
+- **AI-augmented delivery** — using AI tools and agents as a first resort to speed up research, drafting, and infrastructure work, while staying hands-on for judgment calls and direct delivery
 
 ## Background
 
