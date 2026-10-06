@@ -6,12 +6,13 @@ Independent technical leader working in product, cloud, and infrastructure. AI-a
 
 ## What I do
 
-- **Fractional and interim leadership** — stepping in as Head of Product or Head of Infrastructure for a defined period
-- **Project-based engagements** — cloud cost audits, cloud migrations, infrastructure modernization, technical project management
-- **AI-augmented delivery** — using AI tools and agents as a first resort to speed up research, drafting, and infrastructure work, while staying hands-on for judgment calls and direct delivery
+- **Fractional and interim leadership**: stepping in as Head of Product or Head of Infrastructure for a defined period
+- **Project-based engagements**: cloud cost audits, cloud migrations, infrastructure modernization, technical project management
+- **AI-augmented delivery**: using AI tools and agents as a first resort to speed up research, drafting, and infrastructure work, while staying hands-on for judgment calls and direct delivery
 
 ## Background
 
+- Independent Consultant (August 2026-present): fractional and interim leadership and fixed-scope engagements in product, cloud, and infrastructure
 - Head of Product and Innovation, Think Digital Media (ad-tech, 2020-2026): owned P&L on a R3M+/yr platform, cut cloud costs 60%, grew revenue 30%
 - Senior Network Engineer / Manager, Metacom (2010-2020): enterprise connectivity across South Africa
 - Senior PACS Engineer, Mediclinic (2009-2010): radiology network design and deployment
