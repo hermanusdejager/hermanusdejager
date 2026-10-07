@@ -13,7 +13,7 @@ Independent technical leader working in product, cloud, and infrastructure. AI-a
 ## Background
 
 - Independent Consultant (August 2026-present): fractional and interim leadership and fixed-scope engagements in product, cloud, and infrastructure
-- Head of Product and Innovation, Think Digital Media (ad-tech, 2020-2026): owned P&L on a R3M+/yr platform, cut cloud costs 60%, grew revenue 30%
+- Product and Innovations Manager, Think Digital Media (ad-tech, 2020-2026): owned P&L on a R3M+/yr platform, cut cloud costs 60%, grew revenue 30%
 - Senior Network Engineer / Manager, Metacom (2010-2020): enterprise connectivity across South Africa
 - Senior PACS Engineer, Mediclinic (2009-2010): radiology network design and deployment
 - Network Engineer / Data Centre Operations Shift Lead, Rackspace UK (2005-2008)
