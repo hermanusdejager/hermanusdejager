@@ -8,6 +8,7 @@ Independent technical leader working in product, cloud, and infrastructure. AI-a
 
 - **Fractional and interim leadership**: stepping in as Head of Product or Head of Infrastructure for a defined period
 - **Project-based engagements**: cloud cost audits, cloud migrations, infrastructure modernization, technical project management
+- **Software prototypes and products**: designing and building software prototypes and products, for clients and for my own ventures
 - **AI-augmented delivery**: using AI tools and agents as a first resort to speed up research, drafting, and infrastructure work, while staying hands-on for judgment calls and direct delivery
 
 ## Background
